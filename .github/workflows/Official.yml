@@ -30,6 +30,7 @@ on:
         default: 'x86_64'
         type: choice
         options:
+          - 'onecloud-armv7'
           - '1907-phicomm-k3'
           - 'aarch64'
           - 'phicomm_k3'
